@@ -1,0 +1,26 @@
+{
+  "name": "flappy-power",
+  "version": "1.0.0",
+  "description": "3D browser-based Flappy Bird game built with Three.js featuring superpowers",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "keywords": [
+    "threejs",
+    "flappy-bird",
+    "game",
+    "webgl",
+    "vite",
+    "javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
